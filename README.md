@@ -1,4 +1,4 @@
-Sigh bot is basic discord bot made with nodejs and hosted via repl.
+Sigh bot is basic discord bot made with nodejs and hosted via replit.
 
 The bot helps you sigh and is triggered via different words!
 Some tiggering words:
